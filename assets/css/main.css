@@ -7,8 +7,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-
-
 /* Reset */
 
 
@@ -89,7 +87,10 @@
 	}
 
 	@media screen and (max-width: 1680px) {
-
+        
+        video {
+            width: 50em;
+        }
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 56.25em;
@@ -115,6 +116,10 @@
 	}
 
 	@media screen and (max-width: 1280px) {
+        
+        video {
+            width: 30em;
+        }
 
 		.container.\31 25\25 {
 			width: 100%;
@@ -141,7 +146,9 @@
 	}
 
 	@media screen and (max-width: 1024px) {
-
+        video {
+            width: 30em;
+        }
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 106.25%;
@@ -167,7 +174,9 @@
 	}
 
 	@media screen and (max-width: 736px) {
-
+        video {
+            width: 25em;
+        }
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 112.5%;
